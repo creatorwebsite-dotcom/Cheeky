@@ -1,9 +1,27 @@
 {
-  "updatedAt": "21 Oct 2026, 09:51 AM IST",
+  "updatedAt": "21 Oct 2026, 10:54 AM IST",
   "hookLine1": "Aaj ki Top 5 Khabrein jo aapke Exam ko Crack karengi - Sirf 3 minute mein!",
   "hookLine2": "Utho! Aaj ke is dynamic analysis mein RBI ka naya update aur Supreme Court ka landmark faisla shamil hai.",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Special officers to administer rural local bodies in 37 districts till April 2027 in T.N.",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/special-officers-to-administer-rural-local-bodies-in-37-districts-till-april-2027-in-tn/article71606232.ece",
+      "pubDate": "Wed, 21 Oct 2026 10:31:25 +0530",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "keyPoints": "• Special officers are administering rural local bodies in several districts since January 2025"
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Tamil Nadu rains LIVE: Schools declare holiday in Chennai, four other districts",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece",
+      "pubDate": "Wed, 21 Oct 2026 10:19:10 +0530",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "keyPoints": "• A fresh system, over the Bay of Bengal, is likely to sustain intense rainfall across Tamil Nadu till October 26, the Regional Meteorological Centre (RMC) said"
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -41,29 +59,11 @@
       "keyPoints": "• Doctors with Disabilities: Agents of Change has sought the classification of AAC devices and prostheses as essential assistive products under the draft Rights of Persons with Disabilities (Amendment) Rules, 2026, warning that their current categorisation could create uncertainty over insurance and public financing"
     },
     {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
-      "link": "https://www.thehindu.com/news/national/karnataka/spectacular-torchlight-parade-in-mysuru/article71604368.ece",
-      "pubDate": "Wed, 21 Oct 2026 09:34:56 +0530",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "keyPoints": "• Eighteen platoons, each comprising 28 cadets, along with two horse platoons, will participate in the parade"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
-      "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
-      "pubDate": "Wed, 21 Oct 2026 09:05:01 +0530",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "keyPoints": "• After laying a wreath at the Taj Mahal Palace Hotel, S.<br>• Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism"
-    },
-    {
       "category": "economy",
       "categoryLabel": "📈 Economy & Banking",
       "title": "Moves by the North of England to unlock India trade",
       "link": "https://www.thehindu.com/opinion/op-ed/moves-by-the-north-of-england-to-unlock-india-trade/article71605182.ece",
-      "pubDate": "Wed, 21 Oct 2026 00:35:49 +0530",
+      "pubDate": "Wed, 21 Oct 2026 09:58:35 +0530",
       "examRelevance": "GS Paper-III & Banking/SSC: RBI Monetary Policy, GDP, Inflation, Budget & Banking",
       "keyPoints": "• Regional partnerships can help businesses unlock the potential of the India-U.K."
     },
@@ -72,7 +72,7 @@
       "categoryLabel": "📈 Economy & Banking",
       "title": "Rubio pushes for India to buy more U.S., Venezuelan oil",
       "link": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
-      "pubDate": "Tue, 20 Oct 2026 21:15:44 +0530",
+      "pubDate": "Wed, 21 Oct 2026 03:57:35 +0530",
       "examRelevance": "GS Paper-III & Banking/SSC: RBI Monetary Policy, GDP, Inflation, Budget & Banking",
       "keyPoints": "• Jaishankar hosts U.S.<br>• Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity"
     },
@@ -115,6 +115,42 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Albanian police clash with anti-government protesters for eighth day",
+      "link": "https://www.thehindu.com/news/international/albanian-police-clash-with-anti-government-protesters-for-eighth-day/article71606236.ece",
+      "pubDate": "Wed, 21 Oct 2026 10:33:34 +0530",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "keyPoints": "• Prime Minister Edi Rama called it “a hybrid war” and accused protesters of holding Tirana “under a climate of terror,” as student demands over tuition fees merged with a broader anti-government movement"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Canadian unity or separation: why did Alberta province hold a referendum?",
+      "link": "https://www.thehindu.com/news/international/canadian-unity-or-separation-why-did-alberta-province-hold-a-referendum/article71606263.ece",
+      "pubDate": "Wed, 21 Oct 2026 10:31:51 +0530",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "keyPoints": "• The support from the referendum will boost Carney’s ambitions to get a major pipeline out of Alberta that he hopes could revive the economy"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "French PM to meet unions as government prepares for more protests",
+      "link": "https://www.thehindu.com/news/international/french-pm-to-meet-unions-as-government-prepares-for-more-protests/article71606220.ece",
+      "pubDate": "Wed, 21 Oct 2026 10:05:51 +0530",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "keyPoints": "• Sebastien Lecornu will meet with representatives from five unions on October 21 morning to discuss \"ways and means to guarantee the essential freedom to demonstrate\" according to a letter sent to the organisations"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
+      "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+      "pubDate": "Wed, 21 Oct 2026 09:05:01 +0530",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "keyPoints": "• After laying a wreath at the Taj Mahal Palace Hotel, S.<br>• Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "India, U.S. trade deal to be much different: Donald Trump",
       "link": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
       "pubDate": "Wed, 21 Oct 2026 08:52:10 +0530",
@@ -131,40 +167,49 @@
       "keyPoints": "• Anti-terror police have been called in to investigate the suspected arson of the town hall in the central city of Limoges, a listed building dating back to 1883 whose roof and belfry collapsed when it was engulfed by fire on October 17"
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "NATO sending planes, radars to Black Sea after drone attacks",
-      "link": "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-radars/article71606091.ece",
-      "pubDate": "Wed, 21 Oct 2026 08:16:06 +0530",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "keyPoints": "• The announcement from NATO came after Bulgaria's Prime Minister Rumen Radev said that a U.S.<br>• military plane had started to patrol the Black Sea following a plea for help after recent drone attacks"
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "OpenAI says its AI agents weakened internal monitoring system",
+      "link": "https://www.thehindu.com/sci-tech/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system/article71606110.ece",
+      "pubDate": "Wed, 21 Oct 2026 10:22:10 +0530",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "keyPoints": "• OpenAI said it was making it harder for ⁠models to disable monitoring, adding that it does not “yet ⁠have a satisfying explanation for this behavior”"
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "IEA chief sees little chance of oil market 'normalisation' next year",
-      "link": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
-      "pubDate": "Wed, 21 Oct 2026 07:54:16 +0530",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "keyPoints": "• The war sparked by the attacks has sent oil prices to over $100 a barrel compared with below $70 a barrel before hostilities began, while damage to Gulf refineries has helped push diesel prices to record highs"
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+      "link": "https://www.thehindu.com/sci-tech/technology/qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows/article71606101.ece",
+      "pubDate": "Wed, 21 Oct 2026 09:50:43 +0530",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "keyPoints": "• One ​of the world’s biggest ‌smartphone chipmakers, Qualcomm has been hit this year by a slump in consumer electronics sales"
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
-      "link": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
-      "pubDate": "Wed, 21 Oct 2026 06:48:25 +0530",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "keyPoints": "• The Ministry of External Affairs (MEA) said both sides welcomed the progress made in negotiations on the India-U.S.<br>• Bilateral Trade Agreement and reaffirmed their commitment to working towards its early conclusion"
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Delhi High Court imposes ₹1 cost on Niva Bupa over ₹5 crore suit against influencer",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-imposes-1-cost-on-niva-bupa-over-5-crore-suit-against-influencer/article71604625.ece",
+      "pubDate": "Wed, 21 Oct 2026 09:40:48 +0530",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "keyPoints": "• Bhambhani, in an order passed on September 21, observed that merely using an insurance company’s name or trademark to identify it in social media posts did not, in the circumstances of the case, amount to trademark infringement"
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Musk ordered reduction in Starshield services for Ukraine: report",
-      "link": "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece",
-      "pubDate": "Wed, 21 Oct 2026 06:25:31 +0530",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "keyPoints": "• Kyiv last week reported restrictions to the service, which it sees as crucial to fending off Moscow's invasion, shortly after Trump criticised Ukraine and urged it to stop targeting Russian oil refineries."
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Keralam seeks FSSAI clarity on high fat, sugar, salt food",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food/article71604523.ece",
+      "pubDate": "Wed, 21 Oct 2026 09:35:42 +0530",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "keyPoints": "• The State will strengthen all legal measures to curb unhealthy eating habits among children and prevent excessive consumption of junk food, says Health Minister K."
+    },
+    {
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Disability group urges Centre to classify communication aids as essential products",
+      "link": "https://www.thehindu.com/news/national/disability-group-urges-centre-to-classify-communication-aids-as-essential-products/article71603955.ece",
+      "pubDate": "Wed, 21 Oct 2026 09:35:07 +0530",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "keyPoints": "• Doctors with Disabilities: Agents of Change has sought the classification of AAC devices and prostheses as essential assistive products under the draft Rights of Persons with Disabilities (Amendment) Rules, 2026, warning that their current categorisation could create uncertainty over insurance and public financing"
     },
     {
       "category": "scitech",
@@ -174,51 +219,6 @@
       "pubDate": "Wed, 21 Oct 2026 09:30:04 +0530",
       "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
       "keyPoints": "• Elon Musk’s remarks came after SpaceX posted net income of $4.4 billion for the July-September period, compared with a loss of $1.1 billion a year earlier"
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "For parents of adults with autism, planning for future with little State support, takes a toll",
-      "link": "https://www.thehindu.com/sci-tech/health/for-parents-of-adults-with-autism-planning-for-future-with-little-state-support-takes-a-toll/article71583472.ece",
-      "pubDate": "Wed, 21 Oct 2026 09:11:18 +0530",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "keyPoints": "• In thousands of families with special needs children, parents are haunted by the question: ‘who after me?’.<br>• There is an urgent need for better support for caregivers and facilities for those with special needs, say parents and experts"
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Unknown vulnerabilities: on the cybersecurity advisory by CERT-In",
-      "link": "https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece",
-      "pubDate": "Wed, 21 Oct 2026 07:59:08 +0530",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "keyPoints": "• India must do better at detecting and preventing data breaches"
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "On paddy field conservation in Keralam",
-      "link": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece",
-      "pubDate": "Wed, 21 Oct 2026 00:13:33 +0530",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "keyPoints": "• Neglecting paddy fields as a socio-ecological system that regulates local biodiversity, the hydrological cycle, and microclimate constitutes a grave failure, amid rising food insecurity and floods"
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Health Department issues circular on maintaining medicine stocks in hospitals",
-      "link": "https://www.thehindu.com/news/national/kerala/health-department-issues-circular-on-maintaining-medicine-stocks-in-hospitals/article71604608.ece",
-      "pubDate": "Tue, 20 Oct 2026 22:47:41 +0530",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "keyPoints": "• The circular directs that an updated list of the medicine stocks in hospitals be provided to doctors in the OP (outpatient) departments.<br>• This will help doctors have a clear idea about the medicines available in the hospital and to prescribe the same to patients."
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "All you need to know about: Leptospirosis",
-      "link": "https://www.thehindu.com/sci-tech/health/all-you-need-to-know-about-leptospirosis/article71600948.ece",
-      "pubDate": "Tue, 20 Oct 2026 21:56:53 +0530",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "keyPoints": "• Leptospirosis can initially resemble common monsoon illnesses, but without timely diagnosis and treatment, it can progress to life-threatening complications affecting the kidneys, liver and lungs"
     },
     {
       "category": "editorial",
