@@ -1,9 +1,45 @@
 {
-  "updatedAt": "21 Oct 2026, 12:56 PM IST",
+  "updatedAt": "21 Oct 2026, 01:04 PM IST",
   "hookLine1": "Aaj ki Top 5 Khabrein jo aapke Exam ko Crack karengi - Sirf 3 minute mein!",
   "hookLine2": "Utho! Aaj ke is dynamic analysis mein RBI ka naya update aur Supreme Court ka landmark faisla shamil hai.",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Delhi High Court agrees to urgently hear pleas by CJP's Das, Ranka and AISA's Neha",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-hearing-cjp-saurav-das-ashutosh-ranka-custody-aisa-neha/article71606632.ece",
+      "pubDate": "Wed, 21 Oct 2026 13:00:46 +0530",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "keyPoints": "• Saurav Das and Ashutosh Ranka have assailed the SEM's October 19 order remanding them to two days' judicial custody in the High Court, which is shut this week due to Dussehra vacation"
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Dasara 2026: With poojas and processions, Mysuru gears up for grand finale",
+      "link": "https://www.thehindu.com/news/national/karnataka/dasara-2026-with-poojas-and-processions-mysuru-gears-up-for-grand-finale/article71606357.ece",
+      "pubDate": "Wed, 21 Oct 2026 12:59:35 +0530",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "keyPoints": "• Prashantha to carry golden howdah for the first time; over 6,000 police personnel deployed"
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "SC sets aside Kerala HC order in CMRL payoff case, stays FIR probe for 7 days",
+      "link": "https://www.thehindu.com/news/national/kerala/sc-sets-aside-kerala-hc-order-in-cmrl-payoff-case-stays-fir-probe-for-7-days/article71606685.ece",
+      "pubDate": "Wed, 21 Oct 2026 12:59:01 +0530",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "keyPoints": "• The Supreme Court clarified that it had made no observations on the merits of the FIR.<br>• It also refrained from expressing any opinion on the validity of a subsequent Enforcement Case Information Report (ECIR) registered against the petitioners"
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Supreme Court defers AP municipal poll final list to October 25 on YSRCP plea, directs SEC to decide on nominations",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/supreme-court-finds-prima-facie-case-in-ysrcp-plea-for-more-time-to-file-nominations-in-andhra-civic-polls/article71606630.ece",
+      "pubDate": "Wed, 21 Oct 2026 12:58:09 +0530",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "keyPoints": "• The State Election Commission is directed to postpone the publication of the final list of candidates till October 25"
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -21,42 +57,6 @@
       "pubDate": "Wed, 21 Oct 2026 12:46:25 +0530",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
       "keyPoints": "• Andhra Pradesh received 59% less rain than normal between October 1 and 20, the IMD says"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Tamil Nadu rains LIVE: CM Vijay to chair meeting on Northeast monsoon preparedness",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece",
-      "pubDate": "Wed, 21 Oct 2026 12:40:31 +0530",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "keyPoints": "• A fresh system, over the Bay of Bengal, is likely to sustain intense rainfall across Tamil Nadu till October 26, the Regional Meteorological Centre (RMC) said"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Why are book stalls set up by Left parties at Durga Puja Pandals being attacked in West Bengal? Explained",
-      "link": "https://www.thehindu.com/news/national/west-bengal/why-are-book-stalls-set-up-by-left-parties-at-durga-puja-pandals-being-attacked-in-west-bengal-explained/article71606618.ece",
-      "pubDate": "Wed, 21 Oct 2026 12:34:38 +0530",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "keyPoints": "• The targeting of book stalls run by Left parties is part of the political contest that has emerged in West Bengal since the BJP government came to power in May 2026"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Real-time air pollution monitoring stations in Keralam’s Vyttila and Kaloor non-functional",
-      "link": "https://www.thehindu.com/news/national/kerala/real-time-air-pollution-monitoring-stations-in-keralams-vyttila-and-kaloor-non-functional/article71606493.ece",
-      "pubDate": "Wed, 21 Oct 2026 12:20:14 +0530",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "keyPoints": "• Officials said that manual testing of air pollution levels is being carried out; the third station at Eloor is functional, though its annual maintenance contract had expired a year ago"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
-      "link": "https://www.thehindu.com/news/national/karnataka/spectacular-torchlight-parade-in-mysuru/article71604368.ece",
-      "pubDate": "Wed, 21 Oct 2026 12:13:46 +0530",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "keyPoints": "• Eighteen platoons, each comprising 28 cadets, along with two horse platoons, will participate in the parade"
     },
     {
       "category": "economy",
@@ -115,6 +115,24 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "U.K. govt. approves drilling in Jackdaw gas field",
+      "link": "https://www.thehindu.com/news/international/uk-approves-jackdaw-north-sea-gas-drilling-amid-climate-promises/article71606631.ece",
+      "pubDate": "Wed, 21 Oct 2026 13:00:20 +0530",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "keyPoints": "• The Labour administration promised when returning to power in 2024 not to issue any new oil and gas drilling licences as it steers Britain away from fossil fuels towards cleaner renewable energy."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Trump says companies should pay 'dividend' to communities to make data centres popular",
+      "link": "https://www.thehindu.com/news/international/trump-calls-for-data-centre-firms-to-pay-a-community-dividend-to-gain-local-support/article71606602.ece",
+      "pubDate": "Wed, 21 Oct 2026 12:37:51 +0530",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "keyPoints": "• Data centres fueling the rise ⁠of AI have become a political flashpoint in communities across the country given the high quantities of water and power ​they require, with ‌opposition uniting voters across ideological lines"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "What are the deal contours of India-New Zealand FTA?",
       "link": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece",
       "pubDate": "Wed, 21 Oct 2026 11:19:47 +0530",
@@ -147,24 +165,6 @@
       "pubDate": "Wed, 21 Oct 2026 10:31:51 +0530",
       "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
       "keyPoints": "• The support from the referendum will boost Carney’s ambitions to get a major pipeline out of Alberta that he hopes could revive the economy"
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "French PM to meet unions as government prepares for more protests",
-      "link": "https://www.thehindu.com/news/international/french-pm-to-meet-unions-as-government-prepares-for-more-protests/article71606220.ece",
-      "pubDate": "Wed, 21 Oct 2026 10:05:51 +0530",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "keyPoints": "• Sebastien Lecornu will meet with representatives from five unions on October 21 morning to discuss \"ways and means to guarantee the essential freedom to demonstrate\" according to a letter sent to the organisations"
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
-      "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
-      "pubDate": "Wed, 21 Oct 2026 09:05:01 +0530",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "keyPoints": "• After laying a wreath at the Taj Mahal Palace Hotel, S.<br>• Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism"
     },
     {
       "category": "scitech",
